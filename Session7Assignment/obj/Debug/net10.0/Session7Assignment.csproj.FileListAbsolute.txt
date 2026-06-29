@@ -1,0 +1,14 @@
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\bin\Debug\net10.0\Session7Assignment.exe
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\bin\Debug\net10.0\Session7Assignment.deps.json
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\bin\Debug\net10.0\Session7Assignment.runtimeconfig.json
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\bin\Debug\net10.0\Session7Assignment.dll
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\bin\Debug\net10.0\Session7Assignment.pdb
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.AssemblyInfoInputs.cache
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.AssemblyInfo.cs
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.dll
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\refint\Session7Assignment.dll
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.pdb
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\Session7Assignment.genruntimeconfig.cache
+D:\Projects\Programming\Dotnet Backend Training\Session 7 Assignment\Session7Assignment\obj\Debug\net10.0\ref\Session7Assignment.dll
